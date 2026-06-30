@@ -153,7 +153,7 @@ Every training session brings me closer to my dream of becoming a professional f
 
 <div class="gallery">
 
-<img src="images/photo1.jpg">
+<img src="file_0000000003647246a917a6f202843e0b.jpg">
 <img src="images/photo2.jpg">
 <img src="images/photo3.jpg">
 <img src="images/photo4.jpg">
