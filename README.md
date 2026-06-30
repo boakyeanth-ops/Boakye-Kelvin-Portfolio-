@@ -46,7 +46,7 @@
 
 <div class="hero-image">
 
-<img src="images/profile.jpg" alt="Kelvin Boakye">
+<img src="file_0000000003647246a917a6f202843e0b.jpg" alt="Kelvin Boakye">
 
 </div>
 
